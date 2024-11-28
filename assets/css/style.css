@@ -1,0 +1,14 @@
+summary {
+  list-style-type: none; /* Remove qualquer marcador */
+  cursor: pointer; /* Torna o cursor de mão */
+}
+
+h3 {
+  text-align: center;
+}
+
+section details iframe {
+  background-color: gray;
+  padding: 0.2%;
+  border-radius: 1%;
+}
